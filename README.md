@@ -1,0 +1,2 @@
+# OracleDataScienceHackathon2019
+On 20-21 March, I teamed up with a group of guys and tackled a challenge at a local Hackathon. We did a sentiments analysis on The Big Four Agenda launched by our current President, Uhuru Kenyatta, so as to determine howKenyans responded to the four main pillars this are: Universal Health Care, Food Security, Affordable Housing and Manufacturing. We collected data from twitter using tweepy and did the sentiment analysis using TextBlob
