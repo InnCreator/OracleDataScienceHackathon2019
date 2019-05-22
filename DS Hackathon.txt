@@ -1,0 +1,47 @@
+Data collection
+
+Source of data: twitter social media platform
+
+Data: Twitter feeds based on the Big Four Agenda
+
+Search-words:
+
+    #foodsecurity
+    #affordablehousing
+    #manufacturing
+    #BigFourAgenda
+    #Big4Agenda
+    #YouthandThebigfour
+    #UHC
+
+************************************************************************************************************************
+
+THE BIG FOUR AGENDA
+
+The big four pillars that form the foundation of of Uhuru Kenyatta's government agenda include:
+
+    Food Security
+    Affordable Housing
+    Manufacturing
+    Universal Healthcare Coverage
+
+Problem Statement
+
+There is need to retrieve feeds and views from social media platforms such as: Facebook, Twitter etc.
+
+The comments and opinions provide basis for analysing sentiments either positive or negative.
+
+The number of tweets on a particular agenda will indicate its strength.
+
+*************************************************************************************************************************
+## Data Cleaning
+
+Filter retweets: to remove duplicate tweets
+
+Filter location: Nairobi and Mombasa
+
+Pre-defined parameters: Username, Location and Tweets
+
+Split tweets: so as to identify the most used wordings based on the agendas.
+
+***************************************************************************************************************************
