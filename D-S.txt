@@ -1,0 +1,30 @@
+Data Science process:
+Undestanding the aim or end goal -- what you intend to achieve
+Check for anomalies and correct the data -- missing values
+Missing count numbers
+Reshape your data
+
+
+DATA PREP.
+understanding and cleaning your data:-----
+Check statistical Distribution of data:
+Visually represent your data: using matplotlib
+Check the columns and understand types and count value.
+Data transformation using Pandas - filter and drop columns, rename (and reshape your data)
+Set up a unique identifier - setting your index or replacing.
+Cleaning our cases -- Regular expressions is used to change case of our data columns. (one way of cleaning data i.e. Character enconding)
+Renaming more then one column --
+
+correlations within the data:----
+interprete through --- target variables(credit/loan status) and predictor variables(loan status & loan amount) varibles
+(data analysis)
+what variables to look at
+check correlation of different variables to others...
+visualization with pandas --- using a correlation visualization bitmap
+
+DATA CLEANING
+Get missing values. Percentage and how it will affectus.
+TECHNIQUES -- MeanMode Imputation for both categorical data & numerical/continuous variables
+Pairwise for Categorical Varibles using 0&1 - checking and evaluation of data or deleting data: or using zeros
+
+create a method, it is easier.
